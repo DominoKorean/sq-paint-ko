@@ -1,0 +1,1502 @@
+[
+    {
+        "key":  "Alert_CantDisableCelAnimation",
+        "ko":  "셀이 하나일 때만 셀 애니메이션을 해제할 수 있습니다."
+    },
+    {
+        "key":  "Alert_DeletePaletteTemplate",
+        "ko":  "{0}을(를) 삭제하시겠습니까?"
+    },
+    {
+        "key":  "Alert_FileOpenNewerVersion",
+        "ko":  "이 파일은 현재 프로그램보다 최신 버전에서 생성되었습니다.\r\n정상적으로 열리지 않을 수 있습니다. 열어 보시겠습니까?\r\n(파일 버전: {0} / 프로그램 버전: {1})"
+    },
+    {
+        "key":  "Alert_FileSaveChanges",
+        "ko":  "{0}이(가) 수정되었습니다.\r\n저장하시겠습니까?"
+    },
+    {
+        "key":  "Alert_FileSaveLossyLayers",
+        "ko":  "{0} 파일로 저장하려고 합니다.\r\n이 형식은 레이어를 저장하지 않습니다.\r\n레이어를 유지하려면 캔버스 파일 (.spcv)로 저장해야 합니다.\r\n\r\n계속해서 {0} 파일로 저장하시겠습니까?\r\n(이미지 출력에는 파일 → 이미지로 출력을 권장합니다.)"
+    },
+    {
+        "key":  "Alert_FileSaveLossyLayersAndCels",
+        "ko":  "{0} 파일로 저장하려고 합니다.\r\n이 형식은 레이어와 셀을 저장하지 않습니다.\r\n이를 유지하려면 캔버스 파일 (.spcv)로 저장해야 합니다.\r\n\r\n계속해서 {0} 파일로 저장하시겠습니까?\r\n(이미지 출력에는 파일 → 이미지로 출력을 권장합니다.)"
+    },
+    {
+        "key":  "Alert_FileSaveLossyLayersAndSprites",
+        "ko":  "{0} 파일로 저장하려고 합니다.\r\n이 형식은 레이어와 스프라이트를 저장하지 않습니다.\r\n이를 유지하려면 캔버스 파일 (.spcv)로 저장해야 합니다.\r\n\r\n계속해서 {0} 파일로 저장하시겠습니까?\r\n(이미지 출력에는 파일 → 이미지로 출력을 권장합니다.)"
+    },
+    {
+        "key":  "Alert_FileSaveOverwrite",
+        "ko":  "같은 이름의 파일이 이미 있습니다.\r\n덮어쓰시겠습니까?"
+    },
+    {
+        "key":  "Alert_RestoreDefault_EditorSettings",
+        "ko":  "에디터 설정을 초기화하시겠습니까?"
+    },
+    {
+        "key":  "Alert_RestoreDefault_Layout",
+        "ko":  "레이아웃 설정을 초기화하시겠습니까?"
+    },
+    {
+        "key":  "Alert_RestoreDefault_Shortcuts",
+        "ko":  "단축키 설정을 초기화하시겠습니까?"
+    },
+    {
+        "key":  "Alert_ShortcutAlreadyAssigned",
+        "ko":  "[{0}]은(는) 이미 [{1}]에 사용 중입니다.\r\n이 단축키를 덮어쓰시겠습니까?"
+    },
+    {
+        "key":  "AppName",
+        "ko":  "SqPaint"
+    },
+    {
+        "key":  "BlendMode_Multiply",
+        "ko":  "곱하기"
+    },
+    {
+        "key":  "BlendMode_Normal",
+        "ko":  "일반"
+    },
+    {
+        "key":  "BlendMode_Screen",
+        "ko":  "스크린"
+    },
+    {
+        "key":  "Button_Cancel",
+        "ko":  "취소"
+    },
+    {
+        "key":  "Button_Close",
+        "ko":  "닫기"
+    },
+    {
+        "key":  "Button_Continue",
+        "ko":  "계속"
+    },
+    {
+        "key":  "Button_Copy",
+        "ko":  "복사"
+    },
+    {
+        "key":  "Button_Cut",
+        "ko":  "잘라내기"
+    },
+    {
+        "key":  "Button_Delete",
+        "ko":  "삭제"
+    },
+    {
+        "key":  "Button_Export",
+        "ko":  "출력"
+    },
+    {
+        "key":  "Button_Ok",
+        "ko":  "확인"
+    },
+    {
+        "key":  "Button_Overwrite",
+        "ko":  "덮어쓰기"
+    },
+    {
+        "key":  "Button_Paste",
+        "ko":  "붙여넣기"
+    },
+    {
+        "key":  "Button_RestoreDefault",
+        "ko":  "기본값 복원"
+    },
+    {
+        "key":  "Button_SaveAs",
+        "ko":  "{0} 파일로 저장"
+    },
+    {
+        "key":  "CanvasTool_Bucket",
+        "ko":  "채우기"
+    },
+    {
+        "key":  "CanvasTool_Ellipse",
+        "ko":  "타원 (윤곽선)"
+    },
+    {
+        "key":  "CanvasTool_Eraser",
+        "ko":  "지우개"
+    },
+    {
+        "key":  "CanvasTool_Eyedropper",
+        "ko":  "스포이트"
+    },
+    {
+        "key":  "CanvasTool_FilledEllipse",
+        "ko":  "타원 (채우기)"
+    },
+    {
+        "key":  "CanvasTool_FilledRectangle",
+        "ko":  "사각형 (채우기)"
+    },
+    {
+        "key":  "CanvasTool_Line",
+        "ko":  "직선"
+    },
+    {
+        "key":  "CanvasTool_MagicWand",
+        "ko":  "마술봉"
+    },
+    {
+        "key":  "CanvasTool_Move",
+        "ko":  "레이어 이동"
+    },
+    {
+        "key":  "CanvasTool_Pencil",
+        "ko":  "연필"
+    },
+    {
+        "key":  "CanvasTool_Rectangle",
+        "ko":  "사각형 (윤곽선)"
+    },
+    {
+        "key":  "CanvasTool_RectangularMarquee",
+        "ko":  "사각형 선택"
+    },
+    {
+        "key":  "CanvasTool_Scroll",
+        "ko":  "스크롤"
+    },
+    {
+        "key":  "CanvasTool_SelectionEraser",
+        "ko":  "선택 지우개"
+    },
+    {
+        "key":  "CanvasTool_SelectionPen",
+        "ko":  "선택 펜"
+    },
+    {
+        "key":  "CanvasTool_Zoom",
+        "ko":  "확대 / 축소"
+    },
+    {
+        "key":  "Canvas_DefaultName_Canvas",
+        "ko":  "새 캔버스"
+    },
+    {
+        "key":  "Canvas_DefaultName_Cel",
+        "ko":  "셀 {0}"
+    },
+    {
+        "key":  "Canvas_DefaultName_Folder",
+        "ko":  "폴더 {0}"
+    },
+    {
+        "key":  "Canvas_DefaultName_Layer",
+        "ko":  "레이어 {0}"
+    },
+    {
+        "key":  "Canvas_DefaultName_Track",
+        "ko":  "트랙 {0}"
+    },
+    {
+        "key":  "Cmd_AddSprite",
+        "ko":  "스프라이트 추가"
+    },
+    {
+        "key":  "Cmd_Clear",
+        "ko":  "이미지 지우기"
+    },
+    {
+        "key":  "Cmd_Copy",
+        "ko":  "복사"
+    },
+    {
+        "key":  "Cmd_CreateCanvasFromClipboard",
+        "ko":  "클립보드에서 새로 만들기"
+    },
+    {
+        "key":  "Cmd_Cut",
+        "ko":  "잘라내기"
+    },
+    {
+        "key":  "Cmd_Delete",
+        "ko":  "삭제"
+    },
+    {
+        "key":  "Cmd_DeleteFrame",
+        "ko":  "프레임 삭제"
+    },
+    {
+        "key":  "Cmd_Deselect",
+        "ko":  "선택 해제"
+    },
+    {
+        "key":  "Cmd_DisableAnimation",
+        "ko":  "애니메이션 해제"
+    },
+    {
+        "key":  "Cmd_Duplicate",
+        "ko":  "복제"
+    },
+    {
+        "key":  "Cmd_DuplicateCels",
+        "ko":  "셀 복제"
+    },
+    {
+        "key":  "Cmd_DuplicateColors",
+        "ko":  "색상 복제"
+    },
+    {
+        "key":  "Cmd_DuplicateLayers",
+        "ko":  "레이어 복제"
+    },
+    {
+        "key":  "Cmd_DuplicateLinkedCels",
+        "ko":  "연결된 셀로 복제"
+    },
+    {
+        "key":  "Cmd_DuplicateSprites",
+        "ko":  "스프라이트 복제"
+    },
+    {
+        "key":  "Cmd_EditTrackProperties",
+        "ko":  "트랙 설정"
+    },
+    {
+        "key":  "Cmd_EnableCelAnimation",
+        "ko":  "셀 애니메이션 만들기"
+    },
+    {
+        "key":  "Cmd_EnableSpriteAnimation",
+        "ko":  "스프라이트 애니메이션 만들기"
+    },
+    {
+        "key":  "Cmd_FlipSelectionH",
+        "ko":  "좌우 반전"
+    },
+    {
+        "key":  "Cmd_FlipSelectionV",
+        "ko":  "상하 반전"
+    },
+    {
+        "key":  "Cmd_FlipViewH",
+        "ko":  "좌우 반전"
+    },
+    {
+        "key":  "Cmd_FlipViewV",
+        "ko":  "상하 반전"
+    },
+    {
+        "key":  "Cmd_GoToFirstFrame",
+        "ko":  "첫 프레임으로 이동"
+    },
+    {
+        "key":  "Cmd_GoToLastFrame",
+        "ko":  "마지막 프레임으로 이동"
+    },
+    {
+        "key":  "Cmd_GoToNextFrame",
+        "ko":  "다음 프레임으로 이동"
+    },
+    {
+        "key":  "Cmd_GoToPrevFrame",
+        "ko":  "이전 프레임으로 이동"
+    },
+    {
+        "key":  "Cmd_InsertFrame",
+        "ko":  "프레임 삽입"
+    },
+    {
+        "key":  "Cmd_InverseSelection",
+        "ko":  "선택 영역 반전"
+    },
+    {
+        "key":  "Cmd_MergeDown",
+        "ko":  "아래 레이어와 합치기"
+    },
+    {
+        "key":  "Cmd_MovePaletteCursorDown",
+        "ko":  "커서 아래로 이동"
+    },
+    {
+        "key":  "Cmd_MovePaletteCursorLeft",
+        "ko":  "커서 왼쪽으로 이동"
+    },
+    {
+        "key":  "Cmd_MovePaletteCursorRight",
+        "ko":  "커서 오른쪽으로 이동"
+    },
+    {
+        "key":  "Cmd_MovePaletteCursorUp",
+        "ko":  "커서 위로 이동"
+    },
+    {
+        "key":  "Cmd_NewCel",
+        "ko":  "새 셀"
+    },
+    {
+        "key":  "Cmd_NewFolder",
+        "ko":  "새 폴더"
+    },
+    {
+        "key":  "Cmd_NewLayer",
+        "ko":  "새 레이어"
+    },
+    {
+        "key":  "Cmd_NewTrack",
+        "ko":  "새 트랙"
+    },
+    {
+        "key":  "Cmd_OpenCanvas",
+        "ko":  "열기"
+    },
+    {
+        "key":  "Cmd_OpenReferenceImage",
+        "ko":  "참고 이미지 열기"
+    },
+    {
+        "key":  "Cmd_Paste",
+        "ko":  "붙여넣기"
+    },
+    {
+        "key":  "Cmd_PasteLayers",
+        "ko":  "새 레이어로 붙여넣기"
+    },
+    {
+        "key":  "Cmd_PlayPause",
+        "ko":  "재생 / 정지"
+    },
+    {
+        "key":  "Cmd_Quit",
+        "ko":  "종료"
+    },
+    {
+        "key":  "Cmd_RecentFiles",
+        "ko":  "최근 파일"
+    },
+    {
+        "key":  "Cmd_Redo",
+        "ko":  "다시 실행"
+    },
+    {
+        "key":  "Cmd_Rename",
+        "ko":  "이름 바꾸기"
+    },
+    {
+        "key":  "Cmd_RenameCel",
+        "ko":  "셀 이름 바꾸기"
+    },
+    {
+        "key":  "Cmd_RenameLayer",
+        "ko":  "레이어 이름 바꾸기"
+    },
+    {
+        "key":  "Cmd_RotateSelection180",
+        "ko":  "180° 회전"
+    },
+    {
+        "key":  "Cmd_RotateSelection270",
+        "ko":  "왼쪽으로 90° 회전"
+    },
+    {
+        "key":  "Cmd_RotateSelection90",
+        "ko":  "오른쪽으로 90° 회전"
+    },
+    {
+        "key":  "Cmd_SaveAsCanvas",
+        "ko":  "다른 이름으로 저장"
+    },
+    {
+        "key":  "Cmd_SaveCanvas",
+        "ko":  "저장"
+    },
+    {
+        "key":  "Cmd_SelectAll",
+        "ko":  "모두 선택"
+    },
+    {
+        "key":  "Cmd_SelectAllCelsInTrack",
+        "ko":  "트랙의 셀 모두 선택"
+    },
+    {
+        "key":  "Cmd_ShiftColor",
+        "ko":  "색상 인덱스 이동"
+    },
+    {
+        "key":  "Cmd_ShowAbout",
+        "ko":  "SqPaint 정보"
+    },
+    {
+        "key":  "Cmd_ShowCanvasResize",
+        "ko":  "캔버스 크기"
+    },
+    {
+        "key":  "Cmd_ShowContact",
+        "ko":  "문의"
+    },
+    {
+        "key":  "Cmd_ShowEditorSettings",
+        "ko":  "에디터 설정"
+    },
+    {
+        "key":  "Cmd_ShowEditorSettings_InPanel",
+        "ko":  "패널 설정"
+    },
+    {
+        "key":  "Cmd_ShowExportImage",
+        "ko":  "이미지 출력"
+    },
+    {
+        "key":  "Cmd_ShowExportImageSequence",
+        "ko":  "애니메이션을 연속 이미지로 출력"
+    },
+    {
+        "key":  "Cmd_ShowGridResize",
+        "ko":  "격자 크기"
+    },
+    {
+        "key":  "Cmd_ShowLayoutSettings",
+        "ko":  "레이아웃 설정"
+    },
+    {
+        "key":  "Cmd_ShowManual",
+        "ko":  "설명서"
+    },
+    {
+        "key":  "Cmd_ShowNewCanvas",
+        "ko":  "새로 만들기"
+    },
+    {
+        "key":  "Cmd_ShowPaletteRegistration",
+        "ko":  "팔레트를 템플릿으로 저장"
+    },
+    {
+        "key":  "Cmd_ShowPaletteTemplates",
+        "ko":  "팔레트 템플릿 관리"
+    },
+    {
+        "key":  "Cmd_ShowShortcutSettings",
+        "ko":  "단축키 설정"
+    },
+    {
+        "key":  "Cmd_SwapColors",
+        "ko":  "주 색상 / 보조 색상 바꾸기"
+    },
+    {
+        "key":  "Cmd_ToggleGridSnap",
+        "ko":  "격자에 맞추기"
+    },
+    {
+        "key":  "Cmd_ToggleGridVisible",
+        "ko":  "격자"
+    },
+    {
+        "key":  "Cmd_ToggleIsClipping",
+        "ko":  "아래 레이어에 클리핑"
+    },
+    {
+        "key":  "Cmd_ToggleIsTransparentLocked",
+        "ko":  "투명 픽셀 잠금"
+    },
+    {
+        "key":  "Cmd_ToggleOnionSkinVisible",
+        "ko":  "어니언 스킨 표시"
+    },
+    {
+        "key":  "Cmd_TogglePreviewVisible",
+        "ko":  "미리보기"
+    },
+    {
+        "key":  "Cmd_ToggleSpritePreviewEnabled",
+        "ko":  "미리보기에 스프라이트 표시"
+    },
+    {
+        "key":  "Cmd_TransformSelection",
+        "ko":  "변형"
+    },
+    {
+        "key":  "Cmd_Undo",
+        "ko":  "실행 취소"
+    },
+    {
+        "key":  "Cmd_ZoomIn",
+        "ko":  "확대"
+    },
+    {
+        "key":  "Cmd_ZoomOut",
+        "ko":  "축소"
+    },
+    {
+        "key":  "ColorPicker_ColorWheel_Full",
+        "ko":  "색상환"
+    },
+    {
+        "key":  "ColorPicker_ColorWheel_Short",
+        "ko":  "색상환"
+    },
+    {
+        "key":  "ColorPicker_HsvBox_Full",
+        "ko":  "H+SV 상자"
+    },
+    {
+        "key":  "ColorPicker_HsvBox_Short",
+        "ko":  "H+SV"
+    },
+    {
+        "key":  "ColorPicker_HsvSlider_Full",
+        "ko":  "HSV 슬라이더"
+    },
+    {
+        "key":  "ColorPicker_HsvSlider_Short",
+        "ko":  "HSV"
+    },
+    {
+        "key":  "ColorPicker_RgbSlider_Full",
+        "ko":  "RGB 슬라이더"
+    },
+    {
+        "key":  "ColorPicker_RgbSlider_Short",
+        "ko":  "RGB"
+    },
+    {
+        "key":  "Copyright",
+        "ko":  "© 2025-2026 nezutako"
+    },
+    {
+        "key":  "Dialog_DontSave",
+        "ko":  "저장하지 않음"
+    },
+    {
+        "key":  "Dialog_DontShowThisAgain",
+        "ko":  "다시 표시하지 않기"
+    },
+    {
+        "key":  "Dialog_No",
+        "ko":  "아니요"
+    },
+    {
+        "key":  "Dialog_Save",
+        "ko":  "저장"
+    },
+    {
+        "key":  "Dialog_Yes",
+        "ko":  "예"
+    },
+    {
+        "key":  "Error_ClipboardImageFailed",
+        "ko":  "클립보드에서 이미지를 불러오지 못했습니다."
+    },
+    {
+        "key":  "Error_FileOpenCorrupted",
+        "ko":  "파일을 정상적으로 불러오지 못했습니다."
+    },
+    {
+        "key":  "Error_FileOpenFailed",
+        "ko":  "파일을 불러오지 못했습니다."
+    },
+    {
+        "key":  "Error_FileOpenInvalidFormat",
+        "ko":  "지원하지 않는 파일 형식입니다."
+    },
+    {
+        "key":  "Error_FileOpenNotFound",
+        "ko":  "파일을 찾을 수 없습니다."
+    },
+    {
+        "key":  "Error_FileSaveFailed",
+        "ko":  "파일을 저장하지 못했습니다."
+    },
+    {
+        "key":  "Error_FileSaveInvalidFileName",
+        "ko":  "파일 이름이 올바르지 않습니다."
+    },
+    {
+        "key":  "Error_FileSaveInvalidFilePath",
+        "ko":  "파일 경로가 올바르지 않습니다."
+    },
+    {
+        "key":  "Error_Message_Detail_Other",
+        "ko":  "불편을 드려 죄송합니다.\r\n오류가 발생한 상황을 아래 URL로 알려주시면 감사하겠습니다.\r\nhttps://nezutako.com/works/tools/sq-paint/manual/ja/contact/"
+    },
+    {
+        "key":  "Error_Message_Detail_Sq",
+        "ko":  "{0}\r\n--------------------------------\r\n불편을 드려 죄송합니다.\r\n오류 코드와 발생 상황을 아래 URL로 알려주시면 감사하겠습니다.\r\nhttps://nezutako.com/works/tools/sq-paint/manual/ja/contact/"
+    },
+    {
+        "key":  "Error_Message_Detail_Sq_Code",
+        "ko":  "오류 코드: {0}"
+    },
+    {
+        "key":  "Error_Message_Detail_Sq_GpuInitializationFailed",
+        "ko":  "오류 코드: {0}\r\n--------------------------------\r\nGPU(하드웨어 가속)를 사용할 수 없어 시작하지 못했습니다.\r\n이 프로그램을 실행하려면 GPU가 필요합니다.\r\n\r\n다음을 시도해 주세요.\r\n- 그래픽 드라이버를 최신 버전으로 업데이트\r\n- 원격 데스크톱이나 가상 머신이 아닌 PC에서 직접 실행"
+    },
+    {
+        "key":  "Error_Message_LogPath",
+        "ko":  "자세한 내용은 다음 파일에 기록했습니다.\r\n{0}"
+    },
+    {
+        "key":  "Error_Message_Main",
+        "ko":  "오류가 발생했습니다."
+    },
+    {
+        "key":  "Error_Message_Title",
+        "ko":  "오류"
+    },
+    {
+        "key":  "Error_Palette_InvalidName",
+        "ko":  "팔레트 이름이 올바르지 않습니다."
+    },
+    {
+        "key":  "Error_Palette_NameAlreadyUsed",
+        "ko":  "이미 사용 중인 이름입니다."
+    },
+    {
+        "key":  "Error_Palette_SaveFailed",
+        "ko":  "팔레트 템플릿을 저장하지 못했습니다."
+    },
+    {
+        "key":  "FileFormat_AllFiles",
+        "ko":  "모든 파일"
+    },
+    {
+        "key":  "FileFormat_AllFormats",
+        "ko":  "지원되는 모든 형식"
+    },
+    {
+        "key":  "FileFormat_Bmp",
+        "ko":  "BMP"
+    },
+    {
+        "key":  "FileFormat_Canvas",
+        "ko":  "SqPaint 캔버스"
+    },
+    {
+        "key":  "FileFormat_Jpg",
+        "ko":  "JPG"
+    },
+    {
+        "key":  "FileFormat_Png",
+        "ko":  "PNG"
+    },
+    {
+        "key":  "FileFormat_Webp",
+        "ko":  "WEBP"
+    },
+    {
+        "key":  "General_Height",
+        "ko":  "높이"
+    },
+    {
+        "key":  "General_HeightShort",
+        "ko":  "높이"
+    },
+    {
+        "key":  "General_Width",
+        "ko":  "너비"
+    },
+    {
+        "key":  "General_WidthShort",
+        "ko":  "너비"
+    },
+    {
+        "key":  "General_X",
+        "ko":  "X"
+    },
+    {
+        "key":  "General_Y",
+        "ko":  "Y"
+    },
+    {
+        "key":  "Hud_ReferenceImage_Angle",
+        "ko":  "각도"
+    },
+    {
+        "key":  "Hud_ReferenceImage_FitHeight",
+        "ko":  "캔버스 높이에 맞추기"
+    },
+    {
+        "key":  "Hud_ReferenceImage_FitWidth",
+        "ko":  "캔버스 너비에 맞추기"
+    },
+    {
+        "key":  "Hud_ReferenceImage_FlipHToolTip",
+        "ko":  "좌우 반전"
+    },
+    {
+        "key":  "Hud_ReferenceImage_FlipVToolTip",
+        "ko":  "상하 반전"
+    },
+    {
+        "key":  "Hud_ReferenceImage_LockAspectToolTip",
+        "ko":  "가로세로 비율 고정"
+    },
+    {
+        "key":  "Hud_ReferenceImage_Orientation",
+        "ko":  "방향"
+    },
+    {
+        "key":  "Hud_ReferenceImage_Position",
+        "ko":  "위치"
+    },
+    {
+        "key":  "Hud_ReferenceImage_ResetTransform",
+        "ko":  "배치 초기화"
+    },
+    {
+        "key":  "Hud_ReferenceImage_Size",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Info_AddSprite",
+        "ko":  "추가할 스프라이트의 영역을 지정하세요."
+    },
+    {
+        "key":  "Main_FloatContainer_Return",
+        "ko":  "주 창으로 돌아가기"
+    },
+    {
+        "key":  "Main_Header_Canvas",
+        "ko":  "캔버스"
+    },
+    {
+        "key":  "Main_Header_Edit",
+        "ko":  "편집"
+    },
+    {
+        "key":  "Main_Header_File",
+        "ko":  "파일"
+    },
+    {
+        "key":  "Main_Header_Help",
+        "ko":  "도움말"
+    },
+    {
+        "key":  "Main_Header_Option",
+        "ko":  "설정"
+    },
+    {
+        "key":  "Main_Header_Select",
+        "ko":  "선택 영역"
+    },
+    {
+        "key":  "Main_Header_Select_ModifyImage",
+        "ko":  "이미지 수정"
+    },
+    {
+        "key":  "Main_Header_Select_ModifySelection",
+        "ko":  "선택 영역 수정"
+    },
+    {
+        "key":  "Main_Header_Select_Rotate",
+        "ko":  "회전"
+    },
+    {
+        "key":  "Main_Header_Select_Rotate180",
+        "ko":  "180° 회전"
+    },
+    {
+        "key":  "Main_Header_Select_Rotate270",
+        "ko":  "왼쪽으로 90° 회전"
+    },
+    {
+        "key":  "Main_Header_Select_Rotate90",
+        "ko":  "오른쪽으로 90° 회전"
+    },
+    {
+        "key":  "Main_Header_View",
+        "ko":  "보기"
+    },
+    {
+        "key":  "Main_StatusBar_MainColor",
+        "ko":  "주 색상"
+    },
+    {
+        "key":  "Main_StatusBar_Opacity",
+        "ko":  "불투명도"
+    },
+    {
+        "key":  "Main_StatusBar_PaletteIndex",
+        "ko":  "팔레트 번호 {0}"
+    },
+    {
+        "key":  "Main_StatusBar_SubColor",
+        "ko":  "보조 색상"
+    },
+    {
+        "key":  "Main_StatusBar_Transparent",
+        "ko":  "투명"
+    },
+    {
+        "key":  "Main_ToolBar_ViewScale",
+        "ko":  "캔버스 확대율"
+    },
+    {
+        "key":  "PaletteTemplate_AllBlack",
+        "ko":  "모두 검정"
+    },
+    {
+        "key":  "PaletteTemplate_DefaultName",
+        "ko":  "팔레트 {0}"
+    },
+    {
+        "key":  "PaletteTemplate_Preset",
+        "ko":  "프리셋"
+    },
+    {
+        "key":  "Panel_Animation_Fps",
+        "ko":  "FPS"
+    },
+    {
+        "key":  "Panel_Animation_Fps_ToolTip",
+        "ko":  "애니메이션 재생 속도\r\n(초당 표시되는 프레임 수)"
+    },
+    {
+        "key":  "Panel_CanvasEdit_Name",
+        "ko":  "캔버스"
+    },
+    {
+        "key":  "Panel_CanvasEdit_Tab_Close",
+        "ko":  "닫기"
+    },
+    {
+        "key":  "Panel_CanvasEdit_Tab_OpenFileLocation",
+        "ko":  "파일 위치 열기"
+    },
+    {
+        "key":  "Panel_CelAnimation_Name",
+        "ko":  "셀 애니메이션"
+    },
+    {
+        "key":  "Panel_Color_ColorCode",
+        "ko":  "색상 코드로 지정"
+    },
+    {
+        "key":  "Panel_Color_Eyedropper",
+        "ko":  "화면에서 색상 추출"
+    },
+    {
+        "key":  "Panel_Color_HideSubColor",
+        "ko":  "보조 색상 숨기기"
+    },
+    {
+        "key":  "Panel_Color_Name",
+        "ko":  "색상"
+    },
+    {
+        "key":  "Panel_Common_FloatPanel",
+        "ko":  "별도 창으로 분리"
+    },
+    {
+        "key":  "Panel_Layer_BlendMode",
+        "ko":  "합성 모드"
+    },
+    {
+        "key":  "Panel_Layer_Name",
+        "ko":  "레이어"
+    },
+    {
+        "key":  "Panel_Layer_Opacity",
+        "ko":  "불투명도"
+    },
+    {
+        "key":  "Panel_Layer_Reference",
+        "ko":  "참고 이미지"
+    },
+    {
+        "key":  "Panel_Palette_Name",
+        "ko":  "팔레트"
+    },
+    {
+        "key":  "Panel_Palette_Tool_Cursor",
+        "ko":  "커서"
+    },
+    {
+        "key":  "Panel_Palette_Tool_Selection",
+        "ko":  "선택 영역"
+    },
+    {
+        "key":  "Panel_Preview_CameraLock",
+        "ko":  "고정"
+    },
+    {
+        "key":  "Panel_Preview_CameraLockToolTip",
+        "ko":  "미리보기 위치 고정\r\n(캔버스를 따라가지 않음)"
+    },
+    {
+        "key":  "Panel_Preview_Name",
+        "ko":  "미리보기"
+    },
+    {
+        "key":  "Panel_SpriteAnimation_Name",
+        "ko":  "스프라이트 애니메이션"
+    },
+    {
+        "key":  "Panel_ToolOption_Name",
+        "ko":  "도구 옵션"
+    },
+    {
+        "key":  "Panel_Tool_Name",
+        "ko":  "도구"
+    },
+    {
+        "key":  "ShortcutCategory_General",
+        "ko":  "일반"
+    },
+    {
+        "key":  "ShortcutCategory_MenuCanvas",
+        "ko":  "메뉴 \u003e 캔버스"
+    },
+    {
+        "key":  "ShortcutCategory_MenuEdit",
+        "ko":  "메뉴 \u003e 편집"
+    },
+    {
+        "key":  "ShortcutCategory_MenuFile",
+        "ko":  "메뉴 \u003e 파일"
+    },
+    {
+        "key":  "ShortcutCategory_MenuHelp",
+        "ko":  "메뉴 \u003e 도움말"
+    },
+    {
+        "key":  "ShortcutCategory_MenuOption",
+        "ko":  "메뉴 \u003e 설정"
+    },
+    {
+        "key":  "ShortcutCategory_MenuSelect",
+        "ko":  "메뉴 \u003e 선택 영역"
+    },
+    {
+        "key":  "ShortcutCategory_MenuView",
+        "ko":  "메뉴 \u003e 보기"
+    },
+    {
+        "key":  "ShortcutCategory_PanelAnimationCommon",
+        "ko":  "패널 \u003e 애니메이션 \u003e 공통"
+    },
+    {
+        "key":  "ShortcutCategory_PanelCelAnimation",
+        "ko":  "패널 \u003e 애니메이션 \u003e 셀"
+    },
+    {
+        "key":  "ShortcutCategory_PanelLayer",
+        "ko":  "패널 \u003e 레이어"
+    },
+    {
+        "key":  "ShortcutCategory_PanelPalette",
+        "ko":  "패널 \u003e 팔레트"
+    },
+    {
+        "key":  "ShortcutCategory_PanelSpriteAnimation",
+        "ko":  "패널 \u003e 애니메이션 \u003e 스프라이트"
+    },
+    {
+        "key":  "ShortcutCategory_SelectTool",
+        "ko":  "도구"
+    },
+    {
+        "key":  "Sub_About_License",
+        "ko":  "라이선스"
+    },
+    {
+        "key":  "Sub_About_Title",
+        "ko":  "SqPaint 정보"
+    },
+    {
+        "key":  "Sub_About_Version",
+        "ko":  "버전"
+    },
+    {
+        "key":  "Sub_CanvasResize_Anchor",
+        "ko":  "기준 위치"
+    },
+    {
+        "key":  "Sub_CanvasResize_GridUnits",
+        "ko":  "(격자 {0}칸)"
+    },
+    {
+        "key":  "Sub_CanvasResize_Size",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Sub_CanvasResize_Title",
+        "ko":  "캔버스 크기"
+    },
+    {
+        "key":  "Sub_ColorShift_Amount",
+        "ko":  "이동량"
+    },
+    {
+        "key":  "Sub_ColorShift_Title",
+        "ko":  "색상 인덱스 이동"
+    },
+    {
+        "key":  "Sub_EditorSettings_Bg",
+        "ko":  "투명 영역의 체크무늬"
+    },
+    {
+        "key":  "Sub_EditorSettings_BgAutoSwitch",
+        "ko":  "격자 표시 여부에 따라 자동 전환"
+    },
+    {
+        "key":  "Sub_EditorSettings_BgFixedSize",
+        "ko":  "고정 크기"
+    },
+    {
+        "key":  "Sub_EditorSettings_BgIgnoreZoom",
+        "ko":  "확대율 무시"
+    },
+    {
+        "key":  "Sub_EditorSettings_BgMatchGridSize",
+        "ko":  "격자 크기에 맞춤"
+    },
+    {
+        "key":  "Sub_EditorSettings_BgSize",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Sub_EditorSettings_CanvasControls",
+        "ko":  "캔버스 (조작)"
+    },
+    {
+        "key":  "Sub_EditorSettings_CanvasView",
+        "ko":  "캔버스 (표시)"
+    },
+    {
+        "key":  "Sub_EditorSettings_Cel",
+        "ko":  "셀"
+    },
+    {
+        "key":  "Sub_EditorSettings_Cel_DefaultName",
+        "ko":  "기본 이름"
+    },
+    {
+        "key":  "Sub_EditorSettings_Cel_DefaultName_CelWithNumber",
+        "ko":  "셀 + 번호"
+    },
+    {
+        "key":  "Sub_EditorSettings_Cel_DefaultName_None",
+        "ko":  "없음"
+    },
+    {
+        "key":  "Sub_EditorSettings_Cel_DefaultName_NumberOnly",
+        "ko":  "번호만"
+    },
+    {
+        "key":  "Sub_EditorSettings_General",
+        "ko":  "일반"
+    },
+    {
+        "key":  "Sub_EditorSettings_Language",
+        "ko":  "언어"
+    },
+    {
+        "key":  "Sub_EditorSettings_LanguageSub",
+        "ko":  "(Language)"
+    },
+    {
+        "key":  "Sub_EditorSettings_LargeGrid",
+        "ko":  "격자"
+    },
+    {
+        "key":  "Sub_EditorSettings_LargeGrid_Dashed",
+        "ko":  "점선"
+    },
+    {
+        "key":  "Sub_EditorSettings_LargeGrid_Solid",
+        "ko":  "단색"
+    },
+    {
+        "key":  "Sub_EditorSettings_OnionSkin",
+        "ko":  "어니언 스킨"
+    },
+    {
+        "key":  "Sub_EditorSettings_OnionSkin_Opacity",
+        "ko":  "불투명도"
+    },
+    {
+        "key":  "Sub_EditorSettings_PaletteChipSize",
+        "ko":  "색상 칸 크기"
+    },
+    {
+        "key":  "Sub_EditorSettings_PaletteChipSize_AspectRatio",
+        "ko":  "가로세로 비율"
+    },
+    {
+        "key":  "Sub_EditorSettings_PaletteChipSize_Size",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Sub_EditorSettings_RightClick",
+        "ko":  "오른쪽 클릭 동작"
+    },
+    {
+        "key":  "Sub_EditorSettings_RightClickEraser",
+        "ko":  "투명색으로 그리기"
+    },
+    {
+        "key":  "Sub_EditorSettings_RightClickInDrawingTool",
+        "ko":  "그리기 도구"
+    },
+    {
+        "key":  "Sub_EditorSettings_RightClickPickColor",
+        "ko":  "스포이트 (색상 추출)"
+    },
+    {
+        "key":  "Sub_EditorSettings_RightClickSubColor",
+        "ko":  "보조 색상으로 그리기"
+    },
+    {
+        "key":  "Sub_EditorSettings_ScrollBar",
+        "ko":  "스크롤 막대"
+    },
+    {
+        "key":  "Sub_EditorSettings_ScrollBarsConnected",
+        "ko":  "가로 및 세로 스크롤 막대 연동"
+    },
+    {
+        "key":  "Sub_EditorSettings_ShowBrush",
+        "ko":  "브러시 표시"
+    },
+    {
+        "key":  "Sub_EditorSettings_SmallGrid",
+        "ko":  "픽셀 격자"
+    },
+    {
+        "key":  "Sub_EditorSettings_SmallGrid_Always",
+        "ko":  "항상 표시"
+    },
+    {
+        "key":  "Sub_EditorSettings_SmallGrid_Never",
+        "ko":  "표시 안 함"
+    },
+    {
+        "key":  "Sub_EditorSettings_SmallGrid_WithReferenceImage",
+        "ko":  "참고 이미지가 있을 때만"
+    },
+    {
+        "key":  "Sub_EditorSettings_SpriteThumbnail",
+        "ko":  "썸네일"
+    },
+    {
+        "key":  "Sub_EditorSettings_SpriteThumbnail_Size",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Sub_EditorSettings_Theme",
+        "ko":  "테마"
+    },
+    {
+        "key":  "Sub_EditorSettings_ThemeDark",
+        "ko":  "어둡게"
+    },
+    {
+        "key":  "Sub_EditorSettings_ThemeLight",
+        "ko":  "밝게"
+    },
+    {
+        "key":  "Sub_EditorSettings_Title",
+        "ko":  "에디터 설정"
+    },
+    {
+        "key":  "Sub_EditorSettings_Undo",
+        "ko":  "실행 취소"
+    },
+    {
+        "key":  "Sub_EditorSettings_UndoLimit",
+        "ko":  "최대 횟수"
+    },
+    {
+        "key":  "Sub_ExportImageSequence_FileName",
+        "ko":  "파일 이름"
+    },
+    {
+        "key":  "Sub_ExportImageSequence_FolderPath",
+        "ko":  "출력 폴더"
+    },
+    {
+        "key":  "Sub_ExportImageSequence_Scale",
+        "ko":  "출력 배율"
+    },
+    {
+        "key":  "Sub_ExportImageSequence_Title",
+        "ko":  "애니메이션을 연속 이미지로 출력"
+    },
+    {
+        "key":  "Sub_ExportImage_FileName",
+        "ko":  "파일 이름"
+    },
+    {
+        "key":  "Sub_ExportImage_Scale",
+        "ko":  "출력 배율"
+    },
+    {
+        "key":  "Sub_ExportImage_Title",
+        "ko":  "이미지 출력"
+    },
+    {
+        "key":  "Sub_GridResize_Headline",
+        "ko":  "격자"
+    },
+    {
+        "key":  "Sub_GridResize_Title",
+        "ko":  "격자 크기"
+    },
+    {
+        "key":  "Sub_LayoutSettings_Float",
+        "ko":  "별도 창으로 분리"
+    },
+    {
+        "key":  "Sub_LayoutSettings_Title",
+        "ko":  "레이아웃 설정"
+    },
+    {
+        "key":  "Sub_LayoutSettings_Visible",
+        "ko":  "표시"
+    },
+    {
+        "key":  "Sub_NewCanvas_HeadlineCanvas",
+        "ko":  "캔버스"
+    },
+    {
+        "key":  "Sub_NewCanvas_HeadlineGrid",
+        "ko":  "격자"
+    },
+    {
+        "key":  "Sub_NewCanvas_HeadlinePalette",
+        "ko":  "팔레트"
+    },
+    {
+        "key":  "Sub_NewCanvas_Title",
+        "ko":  "새 캔버스"
+    },
+    {
+        "key":  "Sub_OpenReferenceImage_ClipboardImage",
+        "ko":  "클립보드에서 이미지 붙여넣기"
+    },
+    {
+        "key":  "Sub_OpenReferenceImage_DropArea",
+        "ko":  "여기에 이미지 파일을 놓으세요"
+    },
+    {
+        "key":  "Sub_OpenReferenceImage_OpenFile",
+        "ko":  "파일에서 열기"
+    },
+    {
+        "key":  "Sub_OpenReferenceImage_Title",
+        "ko":  "참고 이미지 열기"
+    },
+    {
+        "key":  "Sub_PaletteRegistration_PaletteName",
+        "ko":  "팔레트 이름"
+    },
+    {
+        "key":  "Sub_PaletteRegistration_Title_Register",
+        "ko":  "팔레트 템플릿 저장"
+    },
+    {
+        "key":  "Sub_PaletteRegistration_Title_Rename",
+        "ko":  "팔레트 템플릿 이름 바꾸기"
+    },
+    {
+        "key":  "Sub_PaletteTemplates_Delete",
+        "ko":  "삭제"
+    },
+    {
+        "key":  "Sub_PaletteTemplates_OpenFolder",
+        "ko":  "폴더 열기"
+    },
+    {
+        "key":  "Sub_PaletteTemplates_Register",
+        "ko":  "캔버스에서 추가"
+    },
+    {
+        "key":  "Sub_PaletteTemplates_Rename",
+        "ko":  "이름 바꾸기"
+    },
+    {
+        "key":  "Sub_RenameCel_Name",
+        "ko":  "셀 이름"
+    },
+    {
+        "key":  "Sub_RenameCel_Title",
+        "ko":  "셀 이름 바꾸기"
+    },
+    {
+        "key":  "Sub_RenameLayer_Name",
+        "ko":  "레이어 이름"
+    },
+    {
+        "key":  "Sub_RenameLayer_Title",
+        "ko":  "레이어 이름 바꾸기"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_Add",
+        "ko":  "단축키 추가"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_AddCaption1",
+        "ko":  "[{0}]"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_AddCaption2",
+        "ko":  "에 할당할 키를 누르세요."
+    },
+    {
+        "key":  "Sub_ShortcutSettings_AddTitle",
+        "ko":  "키 할당"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_AlreadyAssignedInline",
+        "ko":  "할당됨: [{0}]"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_CloseAll",
+        "ko":  "모두 접기"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_Edit",
+        "ko":  "단축키 수정"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_OpenAll",
+        "ko":  "모두 펼치기"
+    },
+    {
+        "key":  "Sub_ShortcutSettings_Remove",
+        "ko":  "단축키 삭제"
+    },
+    {
+        "key":  "Sub_TrackProperties_BlendMode",
+        "ko":  "합성 모드"
+    },
+    {
+        "key":  "Sub_TrackProperties_Name",
+        "ko":  "이름"
+    },
+    {
+        "key":  "Sub_TrackProperties_Opacity",
+        "ko":  "불투명도"
+    },
+    {
+        "key":  "Sub_TrackProperties_Title",
+        "ko":  "트랙 설정"
+    },
+    {
+        "key":  "Sub_Transform_Angle",
+        "ko":  "각도"
+    },
+    {
+        "key":  "Sub_Transform_FlipH",
+        "ko":  "좌우 반전"
+    },
+    {
+        "key":  "Sub_Transform_FlipV",
+        "ko":  "상하 반전"
+    },
+    {
+        "key":  "Sub_Transform_LockAspect",
+        "ko":  "가로세로 비율 고정"
+    },
+    {
+        "key":  "Sub_Transform_Orientation",
+        "ko":  "방향"
+    },
+    {
+        "key":  "Sub_Transform_Scale",
+        "ko":  "크기"
+    },
+    {
+        "key":  "Sub_Transform_Title",
+        "ko":  "변형"
+    },
+    {
+        "key":  "ToolOption_CornerRadius",
+        "ko":  "모서리 둥글기"
+    },
+    {
+        "key":  "ToolOption_CurrentOnly",
+        "ko":  "현재 레이어만 참조"
+    },
+    {
+        "key":  "ToolOption_LineSmoothing",
+        "ko":  "픽셀 퍼펙트"
+    },
+    {
+        "key":  "ToolOption_LineWidth",
+        "ko":  "브러시 크기"
+    },
+    {
+        "key":  "ToolOption_OutlineOnly",
+        "ko":  "윤곽선만 채우기"
+    },
+    {
+        "key":  "ToolOption_SelectSameColor",
+        "ko":  "같은 색상 모두 선택"
+    },
+    {
+        "key":  "ToolOption_SelectionMode",
+        "ko":  "선택 모드"
+    },
+    {
+        "key":  "ToolOption_ToolTip_CornerRadius",
+        "ko":  "둥근 모서리의 반경"
+    },
+    {
+        "key":  "ToolOption_ToolTip_CurrentOnly_Bucket",
+        "ko":  "현재 레이어의 색상만 참조하여 채우기"
+    },
+    {
+        "key":  "ToolOption_ToolTip_CurrentOnly_Eyedropper",
+        "ko":  "현재 레이어의 색상만 추출"
+    },
+    {
+        "key":  "ToolOption_ToolTip_CurrentOnly_MagicWand",
+        "ko":  "현재 레이어의 색상만 참조하여 선택"
+    },
+    {
+        "key":  "ToolOption_ToolTip_LineSmoothing",
+        "ko":  "대각선을 그릴 때\r\n픽셀이 가로세로로 겹치지 않게 합니다.\r\n(두께를 1px로 설정하면 효과를 보기 쉽습니다.)"
+    },
+    {
+        "key":  "ToolOption_ToolTip_LineWidth",
+        "ko":  "그리는 선의 두께"
+    },
+    {
+        "key":  "ToolOption_ToolTip_OutlineOnly",
+        "ko":  "채우기 영역의 윤곽선만 채우기"
+    },
+    {
+        "key":  "ToolOption_ToolTip_SelectSameColor",
+        "ko":  "클릭한 색상과 같은 색상의 픽셀을 모두 선택"
+    },
+    {
+        "key":  "ToolOption_ToolTip_SelectionAdd",
+        "ko":  "선택 영역 추가 (Shift)\r\n★ 기존 선택 영역에 추가합니다."
+    },
+    {
+        "key":  "ToolOption_ToolTip_SelectionIntersect",
+        "ko":  "선택 영역 교차 (Shift+Alt)\r\n★ 기존 선택 영역과 새 선택 영역이 겹치는 부분을 선택합니다."
+    },
+    {
+        "key":  "ToolOption_ToolTip_SelectionNew",
+        "ko":  "새 선택 영역\r\n★ 기존 선택 영역을 무시하고 새로 선택합니다."
+    },
+    {
+        "key":  "ToolOption_ToolTip_SelectionSubtract",
+        "ko":  "선택 영역 빼기 (Alt)\r\n★ 기존 선택 영역의 일부를 해제합니다."
+    },
+    {
+        "key":  "ToolOption_ToolTip_TransparentMode",
+        "ko":  "선택 영역의 투명색 (팔레트 번호 0)을 투명하게 표시"
+    },
+    {
+        "key":  "ToolOption_TransparentMode",
+        "ko":  "투명"
+    },
+    {
+        "key":  "Url_Contact",
+        "ko":  "https://nezutako.com/works/tools/sq-paint/manual/ja/contact/?source=sq"
+    },
+    {
+        "key":  "Url_Manual",
+        "ko":  "https://nezutako.com/works/tools/sq-paint/manual/ja/?source=sq"
+    }
+]

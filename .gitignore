@@ -1,0 +1,9 @@
+# Allow only patch project files in normal Git staging.
+/*
+!/.gitattributes
+!/.gitignore
+!/README.md
+!/SqPaint-Korean.ps1
+!/Export-Strings.cmd
+!/Apply-Korean.cmd
+!/translations.ko.json
