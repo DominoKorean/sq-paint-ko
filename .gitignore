@@ -3,6 +3,7 @@
 !/.gitattributes
 !/.gitignore
 !/README.md
+!/image.png
 !/SqPaint-Korean.ps1
 !/Export-Strings.cmd
 !/Apply-Korean.cmd
